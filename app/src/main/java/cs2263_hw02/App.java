@@ -3,6 +3,9 @@
  */
 package cs2263_hw02;
 
+import javafx.application.Application;
+import javafx.stage.Stage;
+
 public class App {
     public String getGreeting() {
         return "Hello World!";
